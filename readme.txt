@@ -33,6 +33,18 @@ By default, every site has automatic updates enabled for minor core releases and
 
 This plugin automatic turn off all updates & nofification when you activate plugin.
 
+### About
+
+* [The plugin designed and developed by Chandrakesh Kumar.](https://profiles.wordpress.org/chandrakeshkumar/#content-plugins)
+* [Chandrakesh Kumar on Facebook.](https://www.facebook.com/chandrakesh.kumar.giri)
+* [Chandrakesh Kumar on Twitter.](https://twitter.com/chanderkeshgiri)
+* [LinkedIn on Twitter.](http://in.linkedin.com/in/chanderkeshgiri)
+
+
+### More Plugins
+
+* [My Plugins](https://profiles.wordpress.org/chandrakeshkumar/#content-plugins)
+
 
 == Installation ==
 
