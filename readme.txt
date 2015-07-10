@@ -1,5 +1,5 @@
 === Disable All Updates & Notifications ===
-Contributors: chandrakeshkumar,wp-chandra,chandgiri67
+Contributors: chandgiri67,chandrakeshkumar,wp-chandra
 Tags: disable, updates, theme, core, auto-update
 Requires at least: 3.4
 Tested up to: 4.2.2
