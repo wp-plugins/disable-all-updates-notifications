@@ -31,6 +31,7 @@ By default, only minor releases – such as for maintenance and security purpose
 
 By default, every site has automatic updates enabled for minor core releases and translation files. Sites already running a development version also have automatic updates to further development versions enabled by default.
 
+This plugin automatic turn off all updates & nofification when you activate plugin.
 
 
 == Installation ==
