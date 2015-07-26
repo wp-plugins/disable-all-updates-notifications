@@ -32,8 +32,6 @@ class wpchandra_remove_all_updates_and_notifications {
 	add_filter( 'automatic_updates_is_vcs_checkout', '__return_true' );
 	add_filter('pre_site_transient_update_plugins','__return_null');
 	remove_action('load-update-core.php','wp_update_plugins');
-	define( 'WP_AUTO_UPDATE_CORE', false );
-	define( 'AUTOMATIC_UPDATER_DISABLED', true );
 	add_filter( 'allow_dev_auto_core_updates', '__return_false' );
 	// Disable All Automatic Updates
     add_filter( 'automatic_updater_disabled', '__return_true' );
